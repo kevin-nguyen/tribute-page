@@ -1,0 +1,94 @@
+header {
+        background-image: url("../asset/portrait.jpg");
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: cover;
+        background-color: white;
+        /*width: 100vw;*/
+        height: 75vh;       
+}
+
+.quote {
+        font-size: 2.5em;
+        color: rgba(255, 255, 255, .8);
+        text-shadow: 0px, 0px, 20px, black; 
+        font-family: 'Tangerine', cursive;
+        font-weight: 700;
+        position: absolute;
+        top: 60%;
+        left: 70%;
+        /*background-color: rgba(0, 0, 0, .15);*/
+}
+
+h1  {
+        font-size: 3em;
+}
+
+h2  {
+        font-size: 2em;
+}
+
+.year {
+        font-family: 'Tangerine', cursive;
+        font-size: 1.5em;
+}
+
+h3  {
+        font-size: 1.75em;
+}
+
+ul  {
+        font-size: 1.5em;
+        list-style-type: disc;
+        margin-left: 35px;
+        margin-top: 10px;
+}
+
+li  {
+        padding: 5px 0;
+}
+
+article {
+        width: 65%;
+        margin: auto;
+        background-color: #A49E8D;
+        border-radius: 20px;
+        /*margin-top: 10px;*/
+        padding: 20px 0;
+}
+
+.main   {
+        font-family: "Lucida Bright", serif; 
+        /*background-color: rgba(0, 0, 0, .90);*/
+        background-color: #3D3B3C;
+        margin: auto;
+        text-align: center;
+        padding: 10px 0;
+        
+}
+
+.title  {
+        
+}
+
+.body   {
+        margin-top: 20px;
+        text-align: left;
+        width: 80%;
+        margin: auto;
+}
+
+
+.footer     {
+        font-size: 2em;
+        text-align: center;
+}
+
+a   {
+        text-decoration: none;
+}
+
+a:link  {
+        color: #A81335;
+
+}
